@@ -174,7 +174,7 @@ def main():
         for r in recs:
             print(f"   * {r}")
     else:
-        print(f"   * Configuração robusta. Nenhuma vulnerabilidade crítica identificada.")
+        print(f"   * Configuration robuste. Aucune vulnérabilité critique identifiée.")
     print(border)
 
 if __name__ == "__main__":
