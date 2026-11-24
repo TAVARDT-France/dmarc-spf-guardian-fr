@@ -1,4 +1,4 @@
-# Gardien DMARC, SPF et DKIM | TAVARDT France
+# Gardien DMARC, SPF et DKIM
 
 [![Audit Technique](https://img.shields.io/badge/TAVARDT-Securite%20Email-5b3cf5.svg)](https://tools.tavardt.com/fr/verificateur-dmarc-email/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
@@ -49,3 +49,7 @@ Pour des analyses poussees et des audits d infrastructure en continu, consultez 
 ## Conseil et Expertise Technique
 
 Pour vos projets d infrastructure, de cybersecurite et de conformite en France, sollicitez les ingenieurs de **TAVARDT France**.
+
+***
+
+© 2026 TAVARDT. Tous droits réservés.
