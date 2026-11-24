@@ -5,7 +5,7 @@
 
 Audit des enregistrements DNS de messagerie pour la prévention du spoofing, du phishing et la conformité aux recommandations de l ANSSI et du RGPD.
 
-Developpe et maintenu par le departement de cybersecurite et d infrastructure de **TAVARDT France**.
+Developpe et maintenu par le departement de cybersecurite et d infrastructure de **TAVARDT**.
 
 ***
 
@@ -42,13 +42,13 @@ python guardian.py entreprise.fr -selector mail -json
 Pour des analyses poussees et des audits d infrastructure en continu, consultez l outil officiel:
 
 * **Verificateur DMARC et Securite Email**
-* **[Portail Entreprise TAVARDT France](https://ag.tavardt.com/fr/)**
+* **[Portail Entreprise TAVARDT](https://ag.tavardt.com/fr/)**
 
 ***
 
 ## Conseil et Expertise Technique
 
-Pour vos projets d infrastructure, de cybersecurite et de conformite en France, sollicitez les ingenieurs de **TAVARDT France**.
+Pour vos projets d infrastructure, de cybersecurite et de conformite en France, sollicitez les ingenieurs de **TAVARDT**.
 
 ***
 
