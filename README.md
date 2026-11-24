@@ -52,4 +52,12 @@ Pour vos projets d infrastructure, de cybersecurite et de conformite en France, 
 
 ***
 
+## Liens Utiles
+
+* **Portail Entreprise:** https://ag.tavardt.com/fr/
+* **Suite de Diagnostic:** https://tools.tavardt.com/fr/
+* **Contact Technique:** https://ag.tavardt.com/fr/contact/
+
+***
+
 © 2026 TAVARDT. Tous droits réservés.
