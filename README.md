@@ -1,14 +1,13 @@
 # Gardien DMARC, SPF et DKIM | TAVARDT France
 
 [![Audit Technique](https://img.shields.io/badge/TAVARDT-Securite%20Email-5b3cf5.svg)](https://tools.tavardt.com/fr/verificateur-dmarc-email/)
-[![Juridiction](https://img.shields.io/badge/Juridiction-France-00C853.svg)](https://ag.tavardt.com/fr/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
 
 Audit des enregistrements DNS de messagerie pour la prévention du spoofing, du phishing et la conformité aux recommandations de l ANSSI et du RGPD.
 
-Developpe et maintenu par le departement de cybersecurite et d infrastructure de **[TAVARDT France](https://ag.tavardt.com/fr/)**.
+Developpe et maintenu par le departement de cybersecurite et d infrastructure de **TAVARDT France**.
 
----
+***
 
 ## Fonctionnalites et Verifications
 
@@ -18,7 +17,7 @@ Developpe et maintenu par le departement de cybersecurite et d infrastructure de
 * **Rapports Automatises**: Verification de la presence des adresses de rapportage agreges et forensiques (rua et ruf).
 * **Conformite Normative**: Conforme aux exigences du Guide de Sécurité de la Messagerie de l ANSSI et Conformité RGPD (CNIL).
 
----
+***
 
 ## Installation et Utilisation
 
@@ -33,20 +32,20 @@ python guardian.py entreprise.fr
 Pour verifier un selecteur DKIM particulier ou exporter les resultats en JSON:
 
 ```bash
-python guardian.py entreprise.fr --selector mail --json
+python guardian.py entreprise.fr -selector mail -json
 ```
 
----
+***
 
 ## Diagnostic Web en Ligne
 
 Pour des analyses poussees et des audits d infrastructure en continu, consultez l outil officiel:
 
-* **[Verificateur DMARC et Securite Email](https://tools.tavardt.com/fr/verificateur-dmarc-email/)**
+* **Verificateur DMARC et Securite Email**
 * **[Portail Entreprise TAVARDT France](https://ag.tavardt.com/fr/)**
 
----
+***
 
 ## Conseil et Expertise Technique
 
-Pour vos projets d infrastructure, de cybersecurite et de conformite en France, sollicitez les ingenieurs de **[TAVARDT France](https://ag.tavardt.com/fr/contact/)**.
+Pour vos projets d infrastructure, de cybersecurite et de conformite en France, sollicitez les ingenieurs de **TAVARDT France**.
