@@ -1,5 +1,6 @@
 # Gardien DMARC, SPF et DKIM
 
+[![Licence : MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Audit Technique](https://img.shields.io/badge/TAVARDT-Securite%20Email-5b3cf5.svg)](https://tools.tavardt.com/fr/verificateur-dmarc-email/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
 
@@ -57,6 +58,11 @@ Pour vos projets d infrastructure, de cybersecurite et de conformite en France, 
 * **Portail Entreprise:** https://ag.tavardt.com/fr/
 * **Suite de Diagnostic:** https://tools.tavardt.com/fr/
 * **Contact Technique:** https://ag.tavardt.com/fr/contact/
+
+***
+
+### Licence
+Distribué sous la licence MIT. Consultez le fichier [LICENSE](LICENSE) pour plus de détails.
 
 ***
 
